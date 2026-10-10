@@ -1,0 +1,1683 @@
+{
+  "as_of": "2026-10-09T10:00:00+01:00",
+  "period": "5\u20139 October 2026 \u00b7 morning attendance registers",
+  "revision": 0,
+  "actions": [],
+  "classes": [
+    {
+      "class_id": "JSS1-A",
+      "label": "JSS1 A"
+    },
+    {
+      "class_id": "JSS1-B",
+      "label": "JSS1 B"
+    },
+    {
+      "class_id": "JSS1-C",
+      "label": "JSS1 C"
+    },
+    {
+      "class_id": "JSS2-A",
+      "label": "JSS2 A"
+    },
+    {
+      "class_id": "JSS2-B",
+      "label": "JSS2 B"
+    },
+    {
+      "class_id": "JSS2-C",
+      "label": "JSS2 C"
+    },
+    {
+      "class_id": "JSS3-A",
+      "label": "JSS3 A"
+    },
+    {
+      "class_id": "JSS3-B",
+      "label": "JSS3 B"
+    },
+    {
+      "class_id": "JSS3-C",
+      "label": "JSS3 C"
+    },
+    {
+      "class_id": "SS1-A",
+      "label": "SS1 A"
+    },
+    {
+      "class_id": "SS1-B",
+      "label": "SS1 B"
+    },
+    {
+      "class_id": "SS1-C",
+      "label": "SS1 C"
+    },
+    {
+      "class_id": "SS2-A",
+      "label": "SS2 A"
+    },
+    {
+      "class_id": "SS2-B",
+      "label": "SS2 B"
+    },
+    {
+      "class_id": "SS2-C",
+      "label": "SS2 C"
+    },
+    {
+      "class_id": "SS3-A",
+      "label": "SS3 A"
+    },
+    {
+      "class_id": "SS3-B",
+      "label": "SS3 B"
+    },
+    {
+      "class_id": "SS3-C",
+      "label": "SS3 C"
+    }
+  ],
+  "admissions": [
+    {
+      "application_id": "SB-ADM001",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM002",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM003",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM004",
+      "requested_class": "JSS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM005",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM006",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM007",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM008",
+      "requested_class": "JSS2",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM009",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM010",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM011",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM012",
+      "requested_class": "SS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM013",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM014",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM015",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM016",
+      "requested_class": "JSS1",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM017",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM018",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM019",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM020",
+      "requested_class": "JSS2",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM021",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM022",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM023",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM024",
+      "requested_class": "SS1",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM025",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM026",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM027",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM028",
+      "requested_class": "JSS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM029",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM030",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM031",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM032",
+      "requested_class": "JSS2",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM033",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM034",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM035",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM036",
+      "requested_class": "SS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM037",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM038",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM039",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM040",
+      "requested_class": "JSS1",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM041",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM042",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM043",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM044",
+      "requested_class": "JSS2",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM045",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM046",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM047",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM048",
+      "requested_class": "SS1",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM049",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM050",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM051",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM052",
+      "requested_class": "JSS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    },
+    {
+      "application_id": "SB-ADM053",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM054",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM055",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM056",
+      "requested_class": "JSS2",
+      "missing_documents": [
+        "Previous-school report",
+        "Birth record"
+      ]
+    },
+    {
+      "application_id": "SB-ADM057",
+      "requested_class": "SS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM058",
+      "requested_class": "JSS1",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM059",
+      "requested_class": "JSS2",
+      "missing_documents": []
+    },
+    {
+      "application_id": "SB-ADM060",
+      "requested_class": "SS1",
+      "missing_documents": [
+        "Previous-school report"
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "staff_id": "SB-T01",
+      "subjects": [
+        "Mathematics"
+      ],
+      "available_periods": [
+        "P3",
+        "P4"
+      ]
+    },
+    {
+      "staff_id": "SB-T02",
+      "subjects": [
+        "English"
+      ],
+      "available_periods": [
+        "P3",
+        "P4"
+      ]
+    },
+    {
+      "staff_id": "SB-T03",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4"
+      ]
+    },
+    {
+      "staff_id": "SB-T04",
+      "subjects": [
+        "English",
+        "Literature"
+      ],
+      "available_periods": [
+        "P4"
+      ]
+    },
+    {
+      "staff_id": "SB-T05",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T06",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T07",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T08",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T09",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T10",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T11",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T12",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T13",
+      "subjects": [
+        "Mathematics",
+        "Basic Science"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T14",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T15",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T16",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T17",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T18",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T19",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T20",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T21",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T22",
+      "subjects": [
+        "Mathematics",
+        "Biology"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T23",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T24",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T25",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T26",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T27",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T28",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T29",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T30",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T31",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T32",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T33",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T34",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T35",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T36",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T37",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T38",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T39",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    {
+      "staff_id": "SB-T40",
+      "subjects": [
+        "English",
+        "Civic Education"
+      ],
+      "available_periods": [
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_id": "SB-L001",
+      "class_id": "JSS1-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    },
+    {
+      "lesson_id": "SB-L002",
+      "class_id": "JSS2-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T02",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L003",
+      "class_id": "SS1-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T01",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L004",
+      "class_id": "JSS1-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    },
+    {
+      "lesson_id": "SB-L005",
+      "class_id": "JSS2-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T03",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L006",
+      "class_id": "SS1-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T01",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L007",
+      "class_id": "JSS1-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T05",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L008",
+      "class_id": "JSS1-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T23",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L009",
+      "class_id": "JSS1-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T06",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L010",
+      "class_id": "JSS1-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T24",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L011",
+      "class_id": "JSS1-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T06",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L012",
+      "class_id": "JSS1-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T24",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L013",
+      "class_id": "JSS1-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T07",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L014",
+      "class_id": "JSS1-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T25",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L015",
+      "class_id": "JSS1-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T07",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L016",
+      "class_id": "JSS1-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T25",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L017",
+      "class_id": "JSS2-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T08",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L018",
+      "class_id": "JSS2-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T26",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L019",
+      "class_id": "JSS2-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T09",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L020",
+      "class_id": "JSS2-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T27",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L021",
+      "class_id": "JSS2-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T09",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L022",
+      "class_id": "JSS2-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T27",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L023",
+      "class_id": "JSS2-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    },
+    {
+      "lesson_id": "SB-L024",
+      "class_id": "JSS2-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T28",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L025",
+      "class_id": "JSS2-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T10",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L026",
+      "class_id": "JSS2-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T28",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L027",
+      "class_id": "JSS3-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T11",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L028",
+      "class_id": "JSS3-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T29",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L029",
+      "class_id": "JSS3-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T11",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L030",
+      "class_id": "JSS3-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T29",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L031",
+      "class_id": "JSS3-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T12",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L032",
+      "class_id": "JSS3-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T30",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L033",
+      "class_id": "JSS3-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T12",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L034",
+      "class_id": "JSS3-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T30",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L035",
+      "class_id": "JSS3-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T13",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L036",
+      "class_id": "JSS3-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T31",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L037",
+      "class_id": "JSS3-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Basic Science",
+      "staff_id": "SB-T13",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L038",
+      "class_id": "JSS3-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T31",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L039",
+      "class_id": "SS1-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T14",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L040",
+      "class_id": "SS1-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T32",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L041",
+      "class_id": "SS1-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T15",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L042",
+      "class_id": "SS1-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    },
+    {
+      "lesson_id": "SB-L043",
+      "class_id": "SS1-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T15",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L044",
+      "class_id": "SS1-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T33",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L045",
+      "class_id": "SS1-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T16",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L046",
+      "class_id": "SS1-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T34",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L047",
+      "class_id": "SS1-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T16",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L048",
+      "class_id": "SS1-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T34",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L049",
+      "class_id": "SS2-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T17",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L050",
+      "class_id": "SS2-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T35",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L051",
+      "class_id": "SS2-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T17",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L052",
+      "class_id": "SS2-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T35",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L053",
+      "class_id": "SS2-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T18",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L054",
+      "class_id": "SS2-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T36",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L055",
+      "class_id": "SS2-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    },
+    {
+      "lesson_id": "SB-L056",
+      "class_id": "SS2-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T36",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L057",
+      "class_id": "SS2-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T19",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L058",
+      "class_id": "SS2-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T37",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L059",
+      "class_id": "SS2-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T19",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L060",
+      "class_id": "SS2-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T37",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L061",
+      "class_id": "SS3-A",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T20",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L062",
+      "class_id": "SS3-A",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T38",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L063",
+      "class_id": "SS3-A",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T20",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L064",
+      "class_id": "SS3-A",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T38",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L065",
+      "class_id": "SS3-B",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T21",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L066",
+      "class_id": "SS3-B",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T39",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L067",
+      "class_id": "SS3-B",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T21",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L068",
+      "class_id": "SS3-B",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": "SB-T39",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L069",
+      "class_id": "SS3-C",
+      "date": "2026-10-09",
+      "period": "P3",
+      "starts_at": "2026-10-09T11:00:00+01:00",
+      "subject": "Mathematics",
+      "staff_id": "SB-T22",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L070",
+      "class_id": "SS3-C",
+      "date": "2026-10-09",
+      "period": "P4",
+      "starts_at": "2026-10-09T12:00:00+01:00",
+      "subject": "English",
+      "staff_id": "SB-T40",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L071",
+      "class_id": "SS3-C",
+      "date": "2026-10-09",
+      "period": "P5",
+      "starts_at": "2026-10-09T13:00:00+01:00",
+      "subject": "Biology",
+      "staff_id": "SB-T22",
+      "cover_status": "Covered"
+    },
+    {
+      "lesson_id": "SB-L072",
+      "class_id": "SS3-C",
+      "date": "2026-10-09",
+      "period": "P6",
+      "starts_at": "2026-10-09T14:00:00+01:00",
+      "subject": "Civic Education",
+      "staff_id": null,
+      "cover_status": "Needs cover"
+    }
+  ],
+  "term": "2026/2027 \u00b7 First term",
+  "school_profile": {
+    "name": "Crestfield College",
+    "fictional": true,
+    "setting": "Established co-educational Lagos secondary school",
+    "levels": "JSS1\u2013SS3",
+    "class_arms": [
+      "A",
+      "B",
+      "C"
+    ],
+    "day_and_boarding": true
+  },
+  "hostels": [
+    {
+      "hostel_id": "SB-H01",
+      "capacity": 80,
+      "occupied": 72
+    },
+    {
+      "hostel_id": "SB-H02",
+      "capacity": 80,
+      "occupied": 72
+    },
+    {
+      "hostel_id": "SB-H03",
+      "capacity": 80,
+      "occupied": 72
+    }
+  ],
+  "fixture_note": "Compact synthetic profile. fixture.py expands 720 learner references, 3600 attendance marks and 720 term invoices deterministically. Rates and patterns are illustrative."
+}
